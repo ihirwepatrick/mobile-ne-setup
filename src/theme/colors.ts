@@ -1,0 +1,17 @@
+export const colors = {
+  background: '#F5F7FA',
+  surface: '#FFFFFF',
+  text: '#1A1D26',
+  textMuted: '#6B7280',
+  border: '#E5E7EB',
+  primary: '#2563EB',
+  income: '#059669',
+  incomeBg: '#D1FAE5',
+  expense: '#DC2626',
+  expenseBg: '#FEE2E2',
+  chip: '#EEF2FF',
+  chipActive: '#2563EB',
+  chipText: '#374151',
+  chipTextActive: '#FFFFFF',
+  danger: '#B91C1C',
+} as const;
